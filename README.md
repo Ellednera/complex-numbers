@@ -1,4 +1,4 @@
-# Complex Numbers
+# Complex Numbers Solutions
 Some programs to solve complex numbers.
 
 All these programs were created to make life easy while completing our maths assignment a few years ago.
